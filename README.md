@@ -1,0 +1,2 @@
+# bearmetal.ee
+Subdomain Takeover
